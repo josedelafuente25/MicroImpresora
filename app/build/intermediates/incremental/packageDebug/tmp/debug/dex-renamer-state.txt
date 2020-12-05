@@ -1,0 +1,4 @@
+#Sat Dec 05 18:57:30 CLST 2020
+base.0=C\:\\Users\\ACER\\AndroidStudioProjects\\ManagerImpresoraBluetooth\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
